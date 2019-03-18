@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>ログボ &#8211; Come on!SFC</title>
+	<atom:link href="/category/loginbonus/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>SFCに入ったけどダルくてつらい、そんなあなたのやる気を引き出す七瀬くるみの提案です。</description>
+	<lastBuildDate>
+	Sun, 03 Jun 2018 06:59:39 +0000	</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">145851908</site>	<item>
+		<title>生協ログインボーナスとは？</title>
+		<link>/logubo-2018-05-4rd/</link>
+				<comments>/logubo-2018-05-4rd/#respond</comments>
+				<pubDate>Wed, 30 May 2018 01:19:45 +0000</pubDate>
+		<dc:creator><![CDATA[おきん]]></dc:creator>
+				<category><![CDATA[ログボ]]></category>
+
+		<guid isPermaLink="false">/?p=116</guid>
+				<description><![CDATA[ななせとコーカスでは現在制作中のラインスタンプの売り上げで生協にログインボーナスを設置する計画が進行中！！ みんなでスタンプでSFCを盛り上げて、生協でログボをもらおう！ おきんサイトの維持管理を担当している人。]]></description>
+						<wfw:commentRss>/logubo-2018-05-4rd/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<post-id xmlns="com-wordpress:feed-additions:1">116</post-id>	</item>
+	</channel>
+</rss>
