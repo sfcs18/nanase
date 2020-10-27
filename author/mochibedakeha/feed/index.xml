@@ -24,15 +24,15 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 	<generator>https://wordpress.org/?v=5.1.1</generator>
 <site xmlns="com-wordpress:feed-additions:1">145851908</site>	<item>
 		<title>SFC-SFSにログインボーナスを追加する！</title>
-		<link>/sfc-sfs%e3%81%ab%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%8a%e3%82%b9%e3%82%92%e8%bf%bd%e5%8a%a0%e3%81%a7%e3%81%8d%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be/</link>
-				<comments>/sfc-sfs%e3%81%ab%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%8a%e3%82%b9%e3%82%92%e8%bf%bd%e5%8a%a0%e3%81%a7%e3%81%8d%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be/#respond</comments>
+		<link>/sfc-sfs-loginbonus/</link>
+				<comments>/sfc-sfs-loginbonus/#respond</comments>
 				<pubDate>Sat, 12 May 2018 05:22:25 +0000</pubDate>
 		<dc:creator><![CDATA[mochibedakeha]]></dc:creator>
 				<category><![CDATA[その他]]></category>
 
 		<guid isPermaLink="false">/?p=123</guid>
 				<description><![CDATA[SFC-SFSのログインボーナス機能が実装されました！ 下記URLより、Chromeの拡張機能を追加してみてください！ ※Chrome拡張機能なので、ブラウザとしてChromeのインストールが必須になります！ ※PC専用 [&#8230;]]]></description>
-						<wfw:commentRss>/sfc-sfs%e3%81%ab%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%8a%e3%82%b9%e3%82%92%e8%bf%bd%e5%8a%a0%e3%81%a7%e3%81%8d%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be/feed/</wfw:commentRss>
+						<wfw:commentRss>/sfc-sfs-loginbonus/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 						<post-id xmlns="com-wordpress:feed-additions:1">123</post-id>	</item>
 	</channel>

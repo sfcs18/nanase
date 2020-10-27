@@ -10,8 +10,8 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
 <channel>
 	<title>
 	SFC-SFSにログインボーナスを追加する！ へのコメント	</title>
-	<atom:link href="/sfc-sfs%E3%81%AB%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE/feed/" rel="self" type="application/rss+xml" />
-	<link>/sfc-sfs%e3%81%ab%e3%83%ad%e3%82%b0%e3%82%a4%e3%83%b3%e3%83%9c%e3%83%bc%e3%83%8a%e3%82%b9%e3%82%92%e8%bf%bd%e5%8a%a0%e3%81%a7%e3%81%8d%e3%82%8b%e3%82%88%e3%81%86%e3%81%ab%e3%81%aa%e3%82%8a%e3%81%be/</link>
+	<atom:link href="/sfc-sfs-loginbonus/feed/" rel="self" type="application/rss+xml" />
+	<link>/sfc-sfs-loginbonus/</link>
 	<description>SFCに入ったけどダルくてつらい、そんなあなたのやる気を引き出す七瀬くるみの提案です。</description>
 	<lastBuildDate>
 	Mon, 18 Mar 2019 05:31:38 +0000	</lastBuildDate>
